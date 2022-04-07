@@ -1,0 +1,17 @@
+export const textData = [
+
+    { 
+        name: 'Lorem Ipsum',
+        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dictum fusce ut placerat orci nulla pellentesque. Viverra justo nec ultrices dui sapien eget. Mi quis hendrerit dolor magna eget. Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc sed augue lacus viverra vitae congue eu. Neque sodales ut etiam sit amet nisl purus in. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Nulla at volutpat diam ut venenatis. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis. Massa enim nec dui nunc mattis. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Volutpat blandit aliquam etiam erat velit scelerisque in. Euismod lacinia at quis risus sed vulputate odio. Malesuada pellentesque elit eget gravida cum. Lacus viverra vitae congue eu consequat ac felis donec et. Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed. Neque laoreet suspendisse interdum consectetur. Eros donec ac odio tempor orci dapibus ultrices in. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Massa vitae tortor condimentum lacinia quis vel eros donec. Lectus sit amet est placerat in egestas. Ultricies mi quis hendrerit dolor magna eget est. Sed risus pretium quam vulputate. Amet volutpat consequat mauris nunc congue. Turpis massa sed elementum tempus egestas sed sed risus. Nisi scelerisque eu ultrices vitae auctor eu. Vehicula ipsum a arcu cursus. Et malesuada fames ac turpis. Id aliquet lectus proin nibh nisl condimentum id. Leo a diam sollicitudin tempor. Sit amet consectetur adipiscing elit duis. Nulla at volutpat diam ut venenatis. Ac feugiat sed lectus vestibulum mattis ullamcorper.',
+        source: 'https://loremipsum.io/',
+        difficulty: 2
+    },
+    {
+        name: 'Duck Feeding',
+        text: 'Ducks eat food sources such as grasses, aquatic plants, fish, insects, small amphibians, worms, and small molluscs. Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging. Along the edge of the beak, there is a comb-like structure called a pecten. This strains the water squirting from the side of the beak and traps any food. The pecten is also used to preen feathers and to hold slippery food items. Diving ducks and sea ducks forage deep underwater. To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly. A few specialized species such as the mergansers are adapted to catch and swallow large fish. The others have the characteristic wide flat beak adapted to dredging-type jobs such as pulling up waterweed, pulling worms and small molluscs out of mud, searching for insect larvae, and bulk jobs such as dredging out, holding, turning head first, and swallowing a squirming frog. To avoid injury when digging into sediment it has no cere, but the nostrils come out through hard horn. The Guardian published an article advising that ducks should not be fed with bread because it damages the health of the ducks and pollutes waterways.',
+        source: 'https://en.wikipedia.org/wiki/Duck',
+        difficulty: 3
+    },
+    
+
+];
